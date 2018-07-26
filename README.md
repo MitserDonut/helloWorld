@@ -1,2 +1,2 @@
 # helloWorld
-It's just a test of repository
+It's just a edited test of repository
